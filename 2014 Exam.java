@@ -28,7 +28,7 @@ public static void scrambleOrRemove(List<String> wordList){
 	}
 }
 
-//Question 2 - n/a
+//Question 2 - n/a, Gridworld
 
 //Question 3
 
